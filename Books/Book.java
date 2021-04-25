@@ -2,8 +2,8 @@ package Books;
 
 public abtract class Book {
 
-    String booktitle;
-    double bookprice;
+    public String booktitle;
+    public double bookprice;
 
     public Book (String Booktitle) {
         this.booktitle = booktitle;
